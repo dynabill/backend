@@ -1,0 +1,11 @@
+{
+    "name": "apiato/authorization",
+    "description": "apiato Container.",
+    "type": "apiato-container",
+    "require": {
+        "spatie/laravel-permission": "^5.5.2"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
